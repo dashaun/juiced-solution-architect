@@ -1,0 +1,17 @@
+apiVersion: vendir.k14s.io/v1alpha1
+directories:
+- contents:
+  - git:
+      commitTitle: 4.5.0
+      sha: 0301ce58ab185f7191696e16b1b6389f58df2892
+      tags:
+      - 4.5.0
+    path: dist
+  - git:
+      commitTitle: 4.5.0
+      sha: 0301ce58ab185f7191696e16b1b6389f58df2892
+      tags:
+      - 4.5.0
+    path: plugin
+  path: reveal.js
+kind: LockConfig
