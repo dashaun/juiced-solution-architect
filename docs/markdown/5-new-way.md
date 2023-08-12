@@ -16,7 +16,7 @@ go together.
 - Level up
 
 ---
-![T-Shaped](/images/tshaped.png "T-Shaped Skillset")
+![T-Shaped](images/tshaped.png "T-Shaped Skillset")
 --- 
 ### Build a community
 

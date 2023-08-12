@@ -1,4 +1,4 @@
-![JUICE](/images/office-hours-plan.png "Office Hours Plan")
+![JUICE](images/office-hours-plan.png "Office Hours Plan")
 Notes:
 - It feels similar to large OSS projects
 - Spring, Spring Boot, Spring Cloud
