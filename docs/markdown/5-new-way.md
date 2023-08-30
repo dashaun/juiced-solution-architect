@@ -25,6 +25,9 @@ go together.
 - Find people that "rolled high on charisma"
 - Get them engaged with each other
 ---
+### Give, Give, Give, then Ask 
+
+---
 ### Make your own slides
 - Teach
   - 'Markitecture' for introductions
