@@ -19,10 +19,9 @@ The best bits don't always win
 #### Hard Parts
 
 ```text
-The hardest part of technology sales
-is making sure the customer is successful
-with the product we sell them
-by delivering meaningful outcomes.
+The hardest part of technology
+is prodiving a solution that
+delivers meaningful outcomes.
 ```
 Notes:
 The same is true when "selling" to internal stakeholders
@@ -30,16 +29,21 @@ The same is true when "selling" to internal stakeholders
 #### Measuring Success
 
 ```text
-Getting the solution to technical close
-with an enablement plan
-that ensures customer ability
+Getting the solution approved,
+with an enablement plan,
+that ensures our ability
 to be highly effective
-in adopting our solution
-beyond the sale.
+in adopting the solution,
+and supporting it.
 ```
-Notes:
-- If you deliver the solution
-- on time, on budget, and on spec
-- and there is zero adoption
-- was it a success?
-- I don't think so.
+
+---
+
+### Success?
+
+```text
+If you deliver the solution
+on time, on budget, and on spec
+and there is zero adoption
+was it a success?
+```

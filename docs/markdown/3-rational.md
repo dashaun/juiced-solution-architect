@@ -31,6 +31,16 @@ We have a lot to learn
 - IoT            <!-- .element: class="fragment" data-fragment-index="2" -->
 - Kubernetes+IoT <!-- .element: class="fragment" data-fragment-index="3" -->
 ---
+
+### AI
+
+- GenAI
+- ML
+- MCP
+- A2A
+
+---
+
 ### 
 
 ```markdown

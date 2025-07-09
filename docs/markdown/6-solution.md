@@ -5,8 +5,18 @@ Notes:
 - Kubernetes, SIGs
 ---
 ### Office Hours
-- Interesting account stories
+- News
 - Product Updates / Roadmap Updates
 - Technical Content / Demo
 - Q&A
 
+---
+
+```text
+Having great technical abilities is important,
+but it's not the only thing that matters.
+
+You also need to know how to think critically, 
+care about what others think, 
+and express yourself clearly.
+```
