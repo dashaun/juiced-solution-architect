@@ -11,7 +11,7 @@ go together.
 ---
 ### Practice your craft
 
-- Practice your presentations
+- Practice your demos
 - Find your favorite use case(s)
 - Level up
 
@@ -21,7 +21,7 @@ go together.
 ### Build a community
 
 - Time away from production concerns
-- Stories are important
+- Requires more stories with customers
 - Find people that "rolled high on charisma"
 - Get them engaged with each other
 ---
@@ -53,7 +53,7 @@ go together.
 ---
 ### Prioritize
 
-- Know who needs the most attention
+- Know which accounts need the most attention
 - Understand how you can help
 - Know when/where you can get help when needed
 ---

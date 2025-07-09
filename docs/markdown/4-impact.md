@@ -1,6 +1,7 @@
 ### My Story
 
-- Single-player mode is lame
+- Solution Architect at Pivotal/VMware
+  - Started on an island, alone with my training
 - Shadowing Helped
 - Partnering Helped
 - Having Community Helped
@@ -11,7 +12,10 @@
 ### Join Us In Creating Excitement
 #### (JUICE)
 
-- Office Hours 
+- Workshops
+- Office Hours
+  - Customers
+  - Peers  
   - My favorite time of the week
 - Don't make the same mistake twice
 - Cheat codes
@@ -23,3 +27,6 @@
 - Stickier with teamwork
 - Makes the job more enjoyable
 - Makes the work more rewarding
+
+Notes:
+- Observations from my approach and journey

@@ -5,7 +5,7 @@ Notes:
 - Kubernetes, SIGs
 ---
 ### Office Hours
-- News
+- Interesting account stories
 - Product Updates / Roadmap Updates
 - Technical Content / Demo
 - Q&A
